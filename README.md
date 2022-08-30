@@ -1,4 +1,5 @@
-# web socket client nest
+# Web Socket Client Nest
+Proyecto hecho con Vite y TypeScript
 
 1. Clonar el repositorio y abrir el proyecto
 2. Instale las dependencias 
